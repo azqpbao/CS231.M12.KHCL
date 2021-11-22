@@ -1,0 +1,38 @@
+C:/Users/SjnDy/AppData/Local/Microsoft/WindowsApps/python3.9.exe "c:/Users/SjnDy/Downloads/CS231/Object Segmentation.py"
+[array([239., 210., 189.]), array([0., 0., 3.])]
+Vong lap thu:  0
+cluster =  0  number of point =  345334
+cluster =  1  number of point =  81066    
+[[228.3576161  202.93488623 182.146603  ] 
+ [ 23.14415415  79.39700984 140.2371031 ]]
+Vong lap thu:  1
+cluster =  0  number of point =  329639
+cluster =  1  number of point =  96761
+[[235.27174879 206.56783026 182.79212108]
+ [ 32.87594175  87.05884602 144.83587396]]
+Vong lap thu:  2
+cluster =  0  number of point =  328600
+cluster =  1  number of point =  97800
+[[235.62159769 206.74917225 182.82398052]
+ [ 33.85067485  87.719182   145.13206544]]
+Vong lap thu:  3
+cluster =  0  number of point =  328528
+cluster =  1  number of point =  97872
+[[235.64489176 206.76102798 182.82611832]
+ [ 33.92091712  87.76695071 145.1526177 ]]
+Vong lap thu:  4
+cluster =  0  number of point =  328525
+cluster =  1  number of point =  97875
+[[235.64586866 206.76151282 182.82617761]
+ [ 33.9238212   87.76897063 145.15357344]]
+Vong lap thu:  5
+cluster =  0  number of point =  328525
+cluster =  1  number of point =  97875
+[[235.64586866 206.76151282 182.82617761]
+ [ 33.9238212   87.76897063 145.15357344]]
+Vong lap thu:  6
+cluster =  0  number of point =  328525
+cluster =  1  number of point =  97875
+[[235.64586866 206.76151282 182.82617761]
+ [ 33.9238212   87.76897063 145.15357344]]
+Accuracy:  0.9550210095607274
